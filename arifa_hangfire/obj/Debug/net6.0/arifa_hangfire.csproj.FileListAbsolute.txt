@@ -1,0 +1,8 @@
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.csproj.AssemblyReference.cache
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.AssemblyInfoInputs.cache
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.AssemblyInfo.cs
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.csproj.CoreCompileInputs.cache
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.RazorAssemblyInfo.cache
+C:\Users\Arifa\source\repos\RabbitMQ\arifa_hangfire\obj\Debug\net6.0\arifa_hangfire.RazorAssemblyInfo.cs

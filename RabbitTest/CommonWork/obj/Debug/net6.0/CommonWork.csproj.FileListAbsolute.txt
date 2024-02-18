@@ -1,0 +1,12 @@
+C:\Users\denni\source\repos\RabbitTest\CommonWork\bin\Debug\net6.0\CommonWork.deps.json
+C:\Users\denni\source\repos\RabbitTest\CommonWork\bin\Debug\net6.0\CommonWork.dll
+C:\Users\denni\source\repos\RabbitTest\CommonWork\bin\Debug\net6.0\CommonWork.pdb
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.csproj.AssemblyReference.cache
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.AssemblyInfo.cs
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.dll
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\refint\CommonWork.dll
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\CommonWork.pdb
+C:\Users\denni\source\repos\RabbitTest\CommonWork\obj\Debug\net6.0\ref\CommonWork.dll

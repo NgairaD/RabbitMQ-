@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "WXoDkYQs3kIN+mmjE/T5MOEuf1YBz3AltSay96Yt3KU=",
+  "Source": "SenderWebApp",
+  "BasePath": "_content/SenderWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Arifa\\source\\repos\\RabbitMQ\\ReceiverWebApp\\ReceiverWebApp.csproj",
+      "Version": 2,
+      "Source": "ReceiverWebApp",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

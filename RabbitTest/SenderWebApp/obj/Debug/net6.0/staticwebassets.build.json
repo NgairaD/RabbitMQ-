@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "teDSNUqjFfMyfyOhg3GV06oR1VHBfWeU1OrVQWDW35U=",
+  "Source": "SenderWebApp",
+  "BasePath": "_content/SenderWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\denni\\source\\repos\\RabbitTest\\ReceiverWebApp\\ReceiverWebApp.csproj",
+      "Version": 2,
+      "Source": "ReceiverWebApp",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
